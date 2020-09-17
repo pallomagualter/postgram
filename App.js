@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.textContainer}>InstaRocket</Text>
+      <Text style={styles.textContainer}>Postgram</Text>
       <StatusBar style="auto" />
     </View>
   );
