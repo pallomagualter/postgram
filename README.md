@@ -40,7 +40,7 @@ O Postgram é um projeto clone do Instagram que visa compartilhar fotos e criar 
 -  [React Native](https://reactnative.dev/)
 
 ## :information_source: Desenvolvimento
-
+<!-- 
 ### :computer_mouse: Backend: 
 
 ```bash
@@ -64,6 +64,7 @@ $ yarn
 #Inicie a aplicação 
 $ yarn start
 ```
+-->
 
 ### :iphone: Mobile:
 
