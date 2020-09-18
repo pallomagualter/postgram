@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler'
 import React from 'react'
 import { Image, TouchableOpacity } from 'react-native'
 import { NavigationContainer } from '@react-navigation/native'
@@ -5,7 +6,7 @@ import { createStackNavigator } from '@react-navigation/stack'
 
 import Feed from './pages/Feed'
 import New from './pages/New'
-import Login from './pages/Login'  
+//import Login from './pages/Login'  
 
 import logo from './assets/logo.png'
 import camera from './assets/camera.png'
