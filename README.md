@@ -38,6 +38,7 @@ O Postgram é um projeto clone do Instagram que visa compartilhar fotos e criar 
 -  [React Router](https://github.com/ReactTraining/react-router)
 -  [VS Code](https://code.visualstudio.com/)
 -  [React Native](https://reactnative.dev/)
+-  [Expo](https://expo.io/)
 
 ## :information_source: Desenvolvimento
 <!-- 
