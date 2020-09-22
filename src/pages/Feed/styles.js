@@ -28,16 +28,16 @@ export default StyleSheet.create({
    feedImage: {
       width: '100%',
       height: 400,
-      marginVertical: 15
+      marginVertical: 15,
    },
    feedItemFooter: {
-      paddingHorizontal: 15
+      paddingHorizontal: 15,
    },
    actions: {
-      flexDirection: 'row'
+      flexDirection: 'row',
    },
    action: {
-      marginRight: 8
+      marginRight: 8,
    },
    likes: {
       marginTop: 15,
