@@ -1,13 +1,6 @@
-import React from 'react';
-import { View } from 'react-native';
-
-export default function New() {
-    return <View />
-}
-/*
 import React, { Component } from "react";
 import api from "../../services/api";
-import ImagePicker from "react-native-image-picker";
+import * as ImagePicker from 'expo-image-picker';
 import { View, TouchableOpacity, Text, TextInput, Image } from "react-native";
 
 import Styles from "./styles";
@@ -135,4 +128,3 @@ export default class New extends Component {
     );
   }
 }
-*/
